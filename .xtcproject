@@ -1,0 +1,15 @@
+{
+  "name": "PL Plugin Template",
+  "project_type": "pl_plugin",
+  "package_name": "com.xtc.example",
+  "author": "",
+  "version_code": 1,
+  "version_name": "1.0.0",
+  "root_dir": "E:/pl-plugin-template",
+  "source_name": "example_plugin",
+  "changelog": [],
+  "custom_plugins": [],
+  "communications": [],
+  "assets": [],
+  "preview_image": ""
+}
