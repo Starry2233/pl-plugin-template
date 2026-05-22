@@ -1,0 +1,12 @@
+build/
+output/
+*.pl
+*.apk
+*.dex
+*.class
+.idea/
+.vscode/
+*.iml
+.gradle/
+local.properties
+*.keystore
